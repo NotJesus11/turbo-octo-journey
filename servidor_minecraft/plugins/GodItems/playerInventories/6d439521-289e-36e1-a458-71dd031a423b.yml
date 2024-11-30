@@ -1,0 +1,458 @@
+armor:
+  offhand:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: AIR
+    amount: 0
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"text":"","extra":[{"text":"Dracula''s armor","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"A This armor once belonged to Vlad the Impaler","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"(Sneak + Jump to morph)","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Item Ability: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"ON","italic":false,"color":"green"}]}'
+      custom-model-data: 1000020
+      enchants:
+        minecraft:protection: 5
+        minecraft:thorns: 4
+        minecraft:unbreaking: 3
+      attribute-modifiers:
+        minecraft:generic.armor:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 6.0
+          slot: chest
+          operation: 0
+          key: minecraft:c5ce6eec-703a-4e32-8461-c67393afb152
+        minecraft:generic.armor_toughness:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 1.0
+          slot: chest
+          operation: 0
+          key: minecraft:5d5b225d-18d5-4188-840e-d441999c7b40
+        minecraft:generic.knockback_resistance:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.0
+          slot: chest
+          operation: 0
+          key: minecraft:831956c0-4d6a-4d89-af51-eb34074a9b73
+      Unbreakable: true
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "draculas_armor"
+        }
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 104
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: GOLDEN_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"text":"","extra":[{"text":"Crown of the Necromancer","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"Forbidden magic is pulsing from this crown,","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+      - '{"text":"","extra":[{"text":"it gives you power over the undead","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Undead won''t attack","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"Chance to get a spawn egg on every","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"undead killed","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Item Ability: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"ON","italic":false,"color":"green"}]}'
+      custom-model-data: 1000004
+      enchants:
+        minecraft:protection: 5
+        minecraft:thorns: 4
+        minecraft:unbreaking: 3
+      attribute-modifiers:
+        minecraft:generic.armor:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 6.0
+          slot: head
+          operation: 0
+          key: minecraft:d02500e9-7c78-4a82-9f41-fddb524f3c68
+        minecraft:generic.armor_toughness:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 1.0
+          slot: head
+          operation: 0
+          key: minecraft:ed0e20e2-008f-452e-bd72-012f48921bd0
+        minecraft:generic.knockback_resistance:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.0
+          slot: head
+          operation: 0
+          key: minecraft:35a105f7-3efe-4dc7-b00b-48e0a1b795fd
+      Unbreakable: true
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "necromancer_crown"
+        }
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: GOLDEN_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:protection: 4
+      Damage: 1
+charms: {}
+contents:
+  slot_1:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: GOLDEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:silk_touch: 1
+      Damage: 31
+  slot_0:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Dragon Fang","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"Blade forged from the","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":false}]}'
+      - '{"text":"","extra":[{"text":"fang of a fallen dragon","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"(Sneak + Hit) - Teleport behind","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Item Ability: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"ON","italic":false,"color":"green"}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"When in Main Hand:","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":" 15.0 Attack Damage","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":false}]}'
+      - '{"text":"","extra":[{"text":" 1.0 Attack Speed","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":false}]}'
+      custom-model-data: 1000027
+      enchants:
+        minecraft:fire_aspect: 1
+      attribute-modifiers:
+        minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 15.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:add6cb23-d925-44b5-a397-10c3f2188de6
+        minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: -3.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:887a7aa4-7d12-469f-9217-7e33c75dd602
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      Unbreakable: true
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "dragon_fang"
+        }
+  slot_29:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SPRUCE_SAPLING
+    amount: 22
+  slot_10:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: EMERALD
+    amount: 4
+  slot_14:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SPRUCE_LOG
+    amount: 39
+  slot_15:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: CARROT
+    amount: 12
+  slot_22:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: OAK_LOG
+    amount: 47
+  slot_34:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: COOKED_SALMON
+    amount: 15
+  slot_35:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SPRUCE_PLANKS
+    amount: 64
+  slot_26:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SPRUCE_PLANKS
+    amount: 32
+  slot_27:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: DIAMOND_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"text":"","extra":[{"text":"Terrible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+      - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"0.0%
+        Mining Speed","italic":false,"color":"gray"}]}'
+      - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"4.0
+        Attack Speed","italic":false,"color":"gray"}]}'
+      - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"1.0
+        Attack Damage","italic":false,"color":"gray"}]}'
+      - '{"text":"","extra":[{"text":"Durability: 299/312","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      attribute-modifiers:
+        minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:9a1ec92c-9e31-483a-aeb5-8e4bb1b29bad
+        minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 0.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:d07b015e-e293-4a99-bc74-f2aaefb78d4b
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      Damage: 65
+      PublicBukkitValues: |-
+        {
+            "valhallammo:actual_stats": "GENERIC_ATTACK_DAMAGE:1.0:ADD_NUMBER:false;MINING_SPEED:8.0:ADD_NUMBER:true;DIG_SPEED:-0.0:ADD_NUMBER:false;GENERIC_ATTACK_SPEED:4.0:ADD_NUMBER:false",
+            "valhallammo:default_stats": "GENERIC_ATTACK_DAMAGE:1.0:ADD_NUMBER:false;MINING_SPEED:8.0:ADD_NUMBER:true;DIG_SPEED:0.0:ADD_NUMBER:false;GENERIC_ATTACK_SPEED:4.0:ADD_NUMBER:false",
+            "valhallammo:durability": 299,
+            "valhallammo:item_flags": "DISPLAY_ATTRIBUTES",
+            "valhallammo:max_durability": 312,
+            "valhallammo:neutral_quality": 140,
+            "valhallammo:quality_smithing": 30
+        }
+  slot_31:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Druid''s Staff","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"Harness the power of nature to","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+      - '{"text":"","extra":[{"text":"heal yourself and your allies","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"(Left Click) - Add extra health to nearby allies","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"(Right Click) - Heal yourself","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"(Sneak + Right Click) - Heal nearby party members","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Item Ability: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"ON","italic":false,"color":"green"}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"When in Main Hand:","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":" 6.0 Attack Damage","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":false}]}'
+      - '{"text":"","extra":[{"text":" 1.4 Attack Speed","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":false}]}'
+      custom-model-data: 1000015
+      enchants:
+        minecraft:sharpness: 5
+        minecraft:unbreaking: 3
+      attribute-modifiers:
+        minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 6.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:ad421637-d61d-4c35-902b-998329097651
+        minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: -2.6
+          slot: mainhand
+          operation: 0
+          key: minecraft:00f46d29-e296-4daa-9915-269d804e6115
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      Unbreakable: true
+      Damage: 0
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "druid_staff"
+        }
+  slot_32:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: REDSTONE
+    amount: 28
+  slot_12:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: BONE
+    amount: 40
+  slot_11:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: COAL
+    amount: 6
+  slot_17:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ARROW
+    amount: 21
+  slot_30:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: STICK
+    amount: 8
+  slot_3:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '"§eBackpack"'
+      skull-owner:
+        ==: PlayerProfile
+        uniqueId: ed57ebc5-704e-3ba1-8e1a-1e774d884533
+        properties:
+        - name: textures
+          value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYzZlYjQwZjNiYWRhNDFlNDMzOTg4OGQ2ZDIwNzQzNzU5OGJkYmQxNzVjMmU3MzExOTFkNWE5YTQyZDNjOCJ9fX0=
+  slot_9:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: DIAMOND
+    amount: 13
+  slot_13:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: KELP
+    amount: 12
+  slot_8:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: COOKED_CHICKEN
+  slot_23:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: BLAZE_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"Wand of Fire","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"This enchanted wand radiates unusual heat","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+      - '{"text":"","extra":[{"text":"It allows you to create and control fire","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"(Sneak + Left Click) - Launch a fireball","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"(Right Click) - Blast of fire in the direction
+        of looking","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":"(Sneak + Right Click) - Surround yourself with
+        a circle of fire","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"Item Ability: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"ON","italic":false,"color":"green"}]}'
+      - '""'
+      - '{"text":"","extra":[{"text":"When in Main Hand:","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      - '{"text":"","extra":[{"text":" 7.0 Attack Damage","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":false}]}'
+      - '{"text":"","extra":[{"text":" 1.0 Attack Speed","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":false}]}'
+      custom-model-data: 1000010
+      enchants:
+        minecraft:sharpness: 5
+        minecraft:unbreaking: 3
+      attribute-modifiers:
+        minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 7.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:d737958d-80c6-45bb-ab0a-09b02d1b1cc4
+        minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: -3.0
+          slot: mainhand
+          operation: 0
+          key: minecraft:c90cccc0-f900-4f6f-ac70-e794e4b83d7b
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      Unbreakable: true
+      Damage: 0
+      PublicBukkitValues: |-
+        {
+            "goditems:code_name": "fire_staff"
+        }
+  slot_25:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: BONE_MEAL
+    amount: 17
+  slot_2:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"text":"","extra":[{"text":"Terrible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+      - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"0.0%
+        Mining Speed","italic":false,"color":"gray"}]}'
+      - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"0.9
+        Attack Speed","italic":false,"color":"gray"}]}'
+      - '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"6.9
+        Attack Damage","italic":false,"color":"gray"}]}'
+      - '{"text":"","extra":[{"text":"Durability: 189/312","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+      attribute-modifiers:
+        minecraft:generic.attack_speed:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: -3.102703
+          slot: mainhand
+          operation: 0
+          key: minecraft:8a0bebbc-e37c-4863-b220-ec02728128ec
+        minecraft:generic.attack_damage:
+        - ==: org.bukkit.attribute.AttributeModifier
+          amount: 5.945946
+          slot: mainhand
+          operation: 0
+          key: minecraft:b404231f-2f40-4715-883b-7881b37e3064
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      Damage: 615
+      PublicBukkitValues: |-
+        {
+            "valhallammo:actual_stats": "GENERIC_ATTACK_DAMAGE:6.945946:ADD_NUMBER:false;MINING_SPEED:8.0:ADD_NUMBER:true;DIG_SPEED:-0.0:ADD_NUMBER:false;GENERIC_ATTACK_SPEED:0.897297:ADD_NUMBER:false",
+            "valhallammo:default_stats": "GENERIC_ATTACK_DAMAGE:9.0:ADD_NUMBER:false;MINING_SPEED:8.0:ADD_NUMBER:true;DIG_SPEED:0.0:ADD_NUMBER:false;GENERIC_ATTACK_SPEED:1.0:ADD_NUMBER:false",
+            "valhallammo:durability": 189,
+            "valhallammo:item_flags": "DISPLAY_ATTRIBUTES",
+            "valhallammo:max_durability": 312,
+            "valhallammo:neutral_quality": 140,
+            "valhallammo:quality_smithing": 20
+        }
+  slot_6:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SPRUCE_PLANKS
+    amount: 64
+  slot_19:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: SPRUCE_PLANKS
+    amount: 64

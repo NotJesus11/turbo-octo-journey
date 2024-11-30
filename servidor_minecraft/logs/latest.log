@@ -1,0 +1,1279 @@
+[19:42:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[19:42:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[19:42:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:42:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 37 plugins
+[19:42:35] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
+ - Minepacks (2.4.31.4-T20240629215752), Nova (0.16.1)
+[19:42:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (35):
+ - AngelChest (13.9.0), AuraSkills (2.2.6), BetterRTP (3.6.13), BetterStructures (1.7.2), BloodMoon (0.8.1), Chunky (1.4.28), ClearLag (3.2.2), ConditionalEvents (4.58.1), CreeperFake (1.0-SNAPSHOT), Essentials (2.21.0-dev+129-2ac37d8), EssentialsChat (2.21.0-dev+129-2ac37d8), FancyPhysics (3.2.0), GSit (1.11.1), GodItems (3.0.1), InfernalMobs (6.8), InteractionVisualizer (1.18.12.0), LevelledMobs (4.1.4 b75), MoreBosses (2.0.2), MyPetDownloader (1.2), MythicDrops (9.0.4), MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}), PlaceholderAPI (2.11.6), PlayTime (3.6), Seasons (2.5.0), SilkSpawners (8.1.0), SkinsRestorer (15.4.4), TabTPS (1.3.25), TerraformGenerator (17.0.1), ValhallaMMO (1.2.8), ValhallaRaces (2.0), ValhallaTrinkets (2.0), Veinminer (2.2.1), WorldEdit (7.3.8+6939-7d32b45), WorldGuard (7.0.12+829a4a4), sleep-most (5.5.1)
+[19:42:43] [ServerMain/WARN]: resource-pack-id missing, using default of 78746684-fdf5-3c39-9048-2225e266877a
+[19:42:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:42:45] [ServerMain/INFO]: Loaded 1290 recipes
+[19:42:46] [ServerMain/INFO]: Loaded 1399 advancements
+[19:42:46] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:42:46] [Server thread/INFO]: Loading properties
+[19:42:46] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:42:47] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:42:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:42:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:42:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[19:42:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:42:48] [Server thread/INFO]: Generating keypair
+[19:42:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:42:48] [Server thread/INFO]: Using epoll channel type
+[19:42:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:42:48] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:42:49] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[19:42:50] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[19:42:50] [Server thread/INFO]: [AngelChest] Hooked into WorldGuard 7.0.12+829a4a4
+[19:42:53] [Server thread/INFO]: [Nova] Loading 2 libraries...
+[19:42:53] [Server thread/INFO]: [Nova] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/xyz/xenondevs/configurate/configurate-yaml/4.2.0-SNAPSHOT/configurate-yaml-4.2.0-SNAPSHOT.jar
+[19:42:53] [Server thread/INFO]: [Nova] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/xyz/xenondevs/configurate/configurate-core/4.2.0-SNAPSHOT/configurate-core-4.2.0-SNAPSHOT.jar
+[19:42:53] [Server thread/INFO]: [Nova] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.14/geantyref-1.3.14.jar
+[19:42:53] [Server thread/INFO]: [Nova] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/xyz/xenondevs/configurate/configurate-extra-kotlin/4.2.0-SNAPSHOT/configurate-extra-kotlin-4.2.0-SNAPSHOT.jar
+[19:42:53] [Server thread/INFO]: [Nova] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.20/kotlin-stdlib-common-1.8.20.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loading 4 libraries... please wait
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.7.3/kotlinx-serialization-json-1.7.3.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.7.3/kotlinx-serialization-json-jvm-1.7.3.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/de/miraculixx/kpaper/1.2.1/kpaper-1.2.1.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.22/kotlin-stdlib-jdk8-1.8.22.jar
+[19:42:53] [Server thread/INFO]: [SpigotLibraryLoader] [Veinminer] Loaded library /workspaces/SMP_Plugins/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.22/kotlin-stdlib-jdk7-1.8.22.jar
+[19:42:54] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:43:03] [Server thread/WARN]: Legacy plugin PlayTime v3.6 does not specify an api-version.
+[19:43:03] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[19:43:03] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.8+6939-7d32b45
+[19:43:05] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@77dc470b]
+[19:43:05] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.25
+[19:43:05] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[19:43:05] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.31.4-T20240629215752
+[19:43:05] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+129-2ac37d8
+[19:43:05] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[19:43:05] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[19:43:05] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[19:43:05] [Server thread/INFO]: [ValhallaMMO] Loading server plugin ValhallaMMO v1.2.8
+[19:43:06] [Server thread/INFO]: [ValhallaMMO] Loading ValhallaMMO config with language en-us selected
+[19:43:06] [Server thread/INFO]: [ValhallaMMO] Initialized plugin hook with PlaceholderAPI
+[19:43:06] [Server thread/INFO]: [ValhallaMMO] Initialized plugin hook with WorldGuard
+[19:43:06] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.11.1
+[19:43:06] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[19:43:06] [Server thread/INFO]: [AngelChest] Successfully registered WorldGuard flags.
+[19:43:06] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.1.4 b75
+[19:43:06] [Server thread/INFO]: [LevelledMobs] Loading commands
+[19:43:07] [Server thread/INFO]: [FancyPhysics] Loading server plugin FancyPhysics v3.2.0
+[19:43:07] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.58.1
+[19:43:07] [Server thread/INFO]: [BetterStructures] Loading server plugin BetterStructures v1.7.2
+[19:43:07] [Server thread/INFO]: [BetterStructures] MagmaCore v1.0 initialized!
+[19:43:07] [Server thread/INFO]: [BetterStructures] Sanity check!
+[19:43:07] [Server thread/INFO]: [BetterStructures] WorldGuard is not enabled! WorldGuard is recommended when using the EliteMobs integration.
+[19:43:07] [Server thread/INFO]: [CreeperFake] Loading server plugin CreeperFake v1.0-SNAPSHOT
+[19:43:07] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[19:43:07] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v17.0.1
+[19:43:07] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[19:43:07] [Server thread/INFO]: [BloodMoon] Loading server plugin BloodMoon v0.8.1
+[19:43:07] [Server thread/INFO]: [ValhallaTrinkets] Loading server plugin ValhallaTrinkets v2.0
+[19:43:07] [Server thread/INFO]: [MyPetDownloader] Loading server plugin MyPetDownloader v1.2
+[19:43:07] [Server thread/INFO]: Start MyPet download: 3.12-SNAPSHOT-B1772
+[19:43:08] [Server thread/INFO]: [MyPet] Loading server plugin MyPet v3.12
+[19:43:08] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Error-Reporter ENABLED
+[19:43:09] [Server thread/INFO]: [GodItems] Loading server plugin GodItems v3.0.1
+[19:43:09] [Server thread/INFO]: [GodItems] Loaded WorldGuard features.
+[19:43:09] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
+[19:43:09] [Server thread/INFO]: [InteractionVisualizer] Loading server plugin InteractionVisualizer v1.18.12.0
+[19:43:09] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.13
+[19:43:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[19:43:09] [Server thread/INFO]: [InfernalMobs] Loading server plugin InfernalMobs v6.8
+[19:43:09] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.6
+[19:43:09] [Server thread/INFO]: [Nova] Loading server plugin Nova v0.16.1
+[19:43:09] [Server thread/INFO]: [SilkSpawners] Loading server plugin SilkSpawners v8.1.0
+[19:43:09] [Server thread/INFO]: [ValhallaRaces] Loading server plugin ValhallaRaces v2.0
+[19:43:09] [Server thread/INFO]: [Veinminer] Loading server plugin Veinminer v2.2.1
+[19:43:10] [Server thread/INFO]: [MoreBosses] Loading server plugin MoreBosses v2.0.2
+[19:43:10] [Server thread/INFO]: [MythicDrops] Loading server plugin MythicDrops v9.0.4
+[19:43:10] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+129-2ac37d8
+[19:43:10] [Server thread/INFO]: [PlayTime] Loading server plugin PlayTime v3.6
+[19:43:10] [Server thread/INFO]: [Seasons] Loading server plugin Seasons v2.5.0
+[19:43:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:43:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.8+6939-7d32b45
+[19:43:10] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:43:10] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:43:11] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[19:43:12] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v17.0.1
+[19:43:13] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[19:43:13] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[19:43:13] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21, number: 21.0
+[19:43:14] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[19:43:15] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[19:43:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[19:43:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:43:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.4]
+[19:43:17] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[19:43:17] [Server thread/INFO]: [Nova] Enabling Nova v0.16.1
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:43:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:43:18] [Server thread/ERROR]: Error occurred while enabling Nova v0.16.1 (Is it up to date?)
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at Nova-0.16.1.jar/xyz.xenondevs.nova.loader.NovaJavaPlugin.onEnable(NovaJavaPlugin.java:26) ~[Nova-0.16.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:293) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at Nova-0.16.1.jar/xyz.xenondevs.nova.loader.NovaJavaPlugin.onEnable(NovaJavaPlugin.java:23) ~[Nova-0.16.1.jar:?]
+	... 10 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/resources/MinecraftKey
+	at xyz.xenondevs.nova.data.serialization.json.GsonKt.<clinit>(Gson.kt:76) ~[?:?]
+	at xyz.xenondevs.nova.Nova.<init>(Nova.kt:131) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at Nova-0.16.1.jar/xyz.xenondevs.nova.loader.NovaJavaPlugin.onEnable(NovaJavaPlugin.java:23) ~[Nova-0.16.1.jar:?]
+	... 10 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.resources.MinecraftKey
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445) ~[?:?]
+	at Nova-0.16.1.jar/xyz.xenondevs.nova.loader.NovaClassLoader.loadClass(NovaClassLoader.java:44) ~[Nova-0.16.1.jar:?]
+	at Nova-0.16.1.jar/xyz.xenondevs.nova.loader.NovaClassLoader.loadClass(NovaClassLoader.java:22) ~[Nova-0.16.1.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at xyz.xenondevs.nova.data.serialization.json.GsonKt.<clinit>(Gson.kt:76) ~[?:?]
+	at xyz.xenondevs.nova.Nova.<init>(Nova.kt:131) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at Nova-0.16.1.jar/xyz.xenondevs.nova.loader.NovaJavaPlugin.onEnable(NovaJavaPlugin.java:23) ~[Nova-0.16.1.jar:?]
+	... 10 more
+[19:43:18] [Server thread/INFO]: [Nova] Disabling Nova v0.16.1
+[19:43:18] [Server thread/INFO]: [Veinminer] Enabling Veinminer v2.2.1
+[19:43:18] [Server thread/INFO]: [MythicDrops] Enabling MythicDrops v9.0.4
+[19:43:18] [DefaultDispatcher-worker-1/INFO]: [VeinminerUpdater] veinminer is up to date
+[19:43:22] [Server thread/INFO]: [MythicDrops] [ACF] Enabled Asynchronous Tab Completion Support!
+[19:43:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:43:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:43:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:43:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:43:22] [Server thread/INFO]: Preparing level "world"
+[19:43:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:43:25] [Server thread/INFO]: Time elapsed: 1642 ms
+[19:43:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:43:26] [Server thread/INFO]: Time elapsed: 820 ms
+[19:43:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:43:26] [Server thread/INFO]: Time elapsed: 308 ms
+[19:43:26] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[19:43:27] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:43:27] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.25
+[19:43:30] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[19:43:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[19:43:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:43:32] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.4-T20240629215752
+[19:43:32] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[19:43:32] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[19:43:33] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
+[19:43:33] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
+[19:43:33] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
+[19:43:33] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[19:43:33] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[19:43:33] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
+[19:43:33] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[19:43:34] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
+[19:43:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: minepacks [2.4.31.4-T20240629215752]
+[19:43:34] [Server thread/INFO]: [Minepacks] PlaceholderAPI hook was successfully registered!
+[19:43:34] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
+[19:43:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+129-2ac37d8
+[19:43:35] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[19:43:36] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:43:36] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:43:36] [Server thread/INFO]: [Essentials] Loaded 42779 items from items.json.
+[19:43:36] [Server thread/INFO]: [Essentials] Using locale en
+[19:43:37] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:43:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:43:37] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:43:37] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[19:43:37] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.0)...
+[19:43:37] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] END_SPAWN_POINT
+[19:43:40] [Server thread/WARN]: Nag author(s): '[Lumine]' of 'MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] RAIN_DELAY
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] RAIN_DURATION
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] THUNDER_DELAY
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] THUNDER_DURATION
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] LOGGER
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] EMPTY_TIME_NO_TICK
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] MAX_SCHEDULED_TICKS_PER_TICK
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] players
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkSource
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] server
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] serverLevelData
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] lastSpawnChunkRadius
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] entityTickList
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] gameEventDispatcher
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] noSave
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] sleepStatus
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] emptyTime
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] portalForcer
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] blockTicks
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] fluidTicks
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] pathTypesByPosCache
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] navigatingMobs
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] isUpdatingNavigations
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] raids
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] blockEvents
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] blockEventsToReschedule
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] handlingTick
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] customSpawners
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] dragonFight
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] dragonParts
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] structureManager
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] structureCheck
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] tickTime
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] randomSequences
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] convertable
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] uuid
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] hasPhysicsEvent
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] hasEntityMoveEvent
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] wireHandler
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] markedClosing
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] viewDistanceHolder
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkLoader
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] entityDataController
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] poiDataController
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkDataController
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkTaskScheduler
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] lastMidTickFailure
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] tickedBlocksOrFluids
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] nearbyPlayers
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] EMPTY_CHUNK_AND_HOLDERS
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] loadedChunks
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] tickingChunks
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] entityTickingChunks
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] lagCompensationTick
+[19:43:40] [Server thread/INFO]: [MythicMobs] [STDOUT] currentlyTickingEntity
+[19:43:40] [Server thread/INFO]: [MythicMobs] Mythic MythicDrops Support has been enabled!
+[19:43:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
+[19:43:41] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
+[19:43:41] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[19:43:41] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/SMP_Plugins/servidor_minecraft/plugins/MythicMobs/data
+[19:43:41] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/SMP_Plugins/servidor_minecraft/plugins/MythicMobs/data/worlds
+[19:43:44] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[19:43:44] [Server thread/INFO]: [MythicMobs] Loading Items...
+[19:43:44] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[19:43:44] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[19:43:45] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[19:43:45] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[19:43:45] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[19:43:45] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[19:43:45] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[19:43:45] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.7.2 ( build ${CI_COMMIT_SHORT_SHA} ) has been successfully loaded!
+[19:43:45] [Server thread/INFO]: [ValhallaMMO] Enabling ValhallaMMO v1.2.8
+[19:43:45] [Server thread/INFO]: [ValhallaMMO] NMS version NMS_v1_21_R1 registered!
+[19:43:45] [Server thread/INFO]: [ValhallaMMO] Resource pack hosting not established! Use /val resourcepack setup if you want ValhallaMMO's resource pack hosted for you
+[19:43:46] [Server thread/INFO]: [ValhallaMMO] MiniMessage support initialized
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Database connection failed, attempting SQLite for profile persistence
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] SQLite connection created! Deleting this file will reset everyone's progress, so back this file up or ignore it in case you want to delete/reset the configs.
+[19:43:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: valhallammo [1.2.8]
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading brewing recipes from plugins/ValhallaMMO/recipes/brewing_recipes.json
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading crafting grid recipes from plugins/ValhallaMMO/recipes/grid_recipes.json
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading smithing recipes from plugins/ValhallaMMO/recipes/smithing_recipes.json
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading immersive recipes from plugins/ValhallaMMO/recipes/immersive_recipes.json
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading cauldron recipes from plugins/ValhallaMMO/recipes/cauldron_recipes.json
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading cooking recipes from plugins/ValhallaMMO/recipes/cooking_recipes.json
+[19:43:50] [Server thread/INFO]: [ValhallaMMO] Loading brewing recipes from plugins/ValhallaMMO/recipes/brewing_recipes_1_20_6+.json
+[19:43:50] [Server thread/INFO]: [GSit] Enabling GSit v1.11.1
+[19:43:51] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[19:43:51] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
+[19:43:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [1.11.1]
+[19:43:51] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[19:43:51] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[19:43:51] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[19:43:51] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[19:43:51] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[19:43:51] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[19:43:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: angelchest [GENERIC]
+[19:43:51] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[19:43:51] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[19:43:51] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[19:43:51] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.1.4 b75
+[19:43:51] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[19:43:51] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21 for nametag support
+[19:43:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[19:43:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[19:43:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[19:43:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[19:43:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[19:43:51] [Server thread/INFO]: [LevelledMobs] Current rules hash: b045bc87aa6d4d7ede8af0fe6b9e9840444142c871fc05d97ce2d9a243fdb966
+[19:43:51] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[19:43:52] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[19:43:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: LevelledMobs [4.1.4 b75]
+[19:43:52] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[19:43:52] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[19:43:52] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 528ms)
+[19:43:52] [Server thread/INFO]: [FancyPhysics] Enabling FancyPhysics v3.2.0
+[19:43:52] [Server thread/INFO]: 
+    ______                          ____  __               _          
+   / ____/___ _____  _______  __   / __ \/ /_  __  _______(_)_________
+  / /_  / __ `/ __ \/ ___/ / / /  / /_/ / __ \/ / / / ___/ / ___/ ___/
+ / __/ / /_/ / / / / /__/ /_/ /  / ____/ / / / /_/ (__  ) / /__(__  ) 
+/_/    \__,_/_/ /_/\___/\__, /  /_/   /_/ /_/\__, /____/_/\___/____/  
+                       /____/               /____/                   v3.2.0
+[19:43:52] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[19:43:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
+[19:43:52] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[19:43:52] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[19:43:52] [Server thread/INFO]: [BetterStructures] Enabling BetterStructures v1.7.2
+[19:43:52] [Server thread/INFO]:     ____       __  __            _____ __                  __                      
+[19:43:52] [Server thread/INFO]:    / __ )___  / /_/ /____  _____/ ___// /________  _______/ /___  __________  _____
+[19:43:52] [Server thread/INFO]:   / __  / _ \/ __/ __/ _ \/ ___/\__ \/ __/ ___/ / / / ___/ __/ / / / ___/ _ \/ ___/
+[19:43:52] [Server thread/INFO]:  / /_/ /  __/ /_/ /_/  __/ /   ___/ / /_/ /  / /_/ / /__/ /_/ /_/ / /  /  __(__  ) 
+[19:43:52] [Server thread/INFO]: /_____/\___/\__/\__/\___/_/   /____/\__/_/   \__,_/\___/\__/\__,_/_/   \___/____/
+[19:43:52] [Server thread/INFO]: [BetterStructures] Initialized version 1.7.2!
+[19:43:52] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 169 ms to scan 1 urls, producing 1 keys and 5 values
+[19:43:53] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 8 ms to scan 1 urls, producing 1 keys and 29 values
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_barren.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_nether.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_barren.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_tundra.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_ruins_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_ruins_end.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_tundra.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_grassland.yml will not be used.
+[19:44:00] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:00] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_barren.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_end.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_end.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_mines_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_mines_end.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_desert.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_nether.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_tundra.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_desert.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_tundra.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_grassland.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_grassland.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_tundra.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_desert.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_nether.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_grassland.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_barren.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_tundra.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_nether.yml will not be used.
+[19:44:01] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:01] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_nether.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_desert.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_barren.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_flagship_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_flagship_grassland.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_deepunderground.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_deepunderground.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_dripstone.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_dripstone.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_lush.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_lush.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_grassland.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_end.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_end.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_desert.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_tundra.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_nether.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_end.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_end.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_grassland.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_end.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_shallowunderground.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_shallowunderground.yml will not be used.
+[19:44:02] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:02] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_barren.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_barren.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_nether.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_desert.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_end.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_prison_dripstone.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_prison_dripstone.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_nether.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_desert.yml will not be used.
+[19:44:03] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[19:44:03] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_grassland.yml will not be used.
+[19:44:03] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[19:44:03] [Server thread/INFO]: [CreeperFake] Enabling CreeperFake v1.0-SNAPSHOT
+[19:44:03] [Server thread/INFO]: [CreeperFake] [ACF] Enabled Asynchronous Tab Completion Support!
+[19:44:03] [Server thread/INFO]: [CreeperFake] §aCreeperFake ha sido Activado 1.0§r
+[19:44:03] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[19:44:03] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[19:44:04] [Server thread/INFO]: [ClearLag] Loading modules...
+[19:44:04] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[19:44:04] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[19:44:04] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[19:44:04] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[19:44:04] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[19:44:04] [Thread-19/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[19:44:04] [Thread-19/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[19:44:04] [Thread-19/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[19:44:04] [Thread-19/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[19:44:04] [Thread-19/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[19:44:04] [Thread-19/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[19:44:04] [Server thread/INFO]: [BloodMoon] Enabling BloodMoon v0.8.1
+[19:44:04] [Server thread/INFO]: [BloodMoon] This plugin is still in its infancy. If you encounter a bug, please report it to https://www.spigotmc.org/threads/bloodmoon.412741/
+[19:44:04] [Server thread/INFO]: [ValhallaTrinkets] Enabling ValhallaTrinkets v2.0
+[19:44:04] [Server thread/WARN]: filler item type NONE_GRAY_STAINED_GLASS_PANE is not valid
+[19:44:04] [Server thread/INFO]: [ValhallaTrinkets] ValhallaMMO hooked! Adding a bunch of cool stuff. Use /val setuptrinkets to load in its custom recipes
+[19:44:04] [Server thread/INFO]: [MyPetDownloader] Enabling MyPetDownloader v1.2
+[19:44:04] [Server thread/INFO]: [GodItems] Enabling GodItems v3.0.1
+[19:44:04] [Server thread/INFO]: [GodItems] Made by MitromniZ and Cros_bow
+[19:44:04] [Server thread/INFO]: [GodItems] The texture pack is only available if you download the plugin from our patreon page
+[19:44:05] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:44:05] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
+[19:44:05] [Server thread/INFO]: [sleep-most] Hooked to PlaceholderAPI
+[19:44:05] [Server thread/INFO]: [sleep-most] Hooked to GSit
+[19:44:05] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[19:44:05] [Server thread/INFO]: [sleep-most] GSit hook detected and registered GSit event listener
+[19:44:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: sleepmost [5.5.1]
+[19:44:05] [Server thread/INFO]: [InteractionVisualizer] Enabling InteractionVisualizer v1.18.12.0
+[19:44:10] [Server thread/INFO]: [InteractionVisualizer] Opened Sqlite database successfully
+[19:44:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: interactionvisualizer [2.0.0]
+[19:44:13] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been enabled!
+[19:44:13] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.13
+[19:44:13] [Server thread/INFO]: [BetterRTP] Cooldown = 600
+[19:44:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterrtp [3.6.13]
+[19:44:13] [Server thread/INFO]: [InfernalMobs] Enabling InfernalMobs v6.8
+[19:44:13] [Server thread/INFO]: [InfernalMobs] Registered Events.
+[19:44:13] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.6
+[19:44:15] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[19:44:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: auraskills [2.2.6]
+[19:44:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aureliumskills [2.2.6]
+[19:44:16] [Server thread/INFO]: [AuraSkills] Successfully registered hook PlaceholderAPI
+[19:44:16] [Server thread/INFO]: [AuraSkills] Successfully registered hook WorldGuard
+[19:44:16] [Server thread/INFO]: [AuraSkills] Successfully registered hook MythicMobs
+[19:44:16] [Server thread/INFO]: [AuraSkills] Loaded 150 config options in 144 ms
+[19:44:16] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[19:44:16] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[19:44:16] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[19:44:16] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[19:44:17] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[19:44:17] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v8.1.0
+[19:44:18] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[19:44:18] [Server thread/INFO]: [SilkSpawners] Mimic was not found and support is disabled
+[19:44:18] [Server thread/INFO]: [SilkSpawners] Loading support for v1_21_R1
+[19:44:18] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled and now running.
+[19:44:18] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[19:44:18] [Server thread/INFO]: [ValhallaRaces] Enabling ValhallaRaces v2.0
+[19:44:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: valhallaraces [1.1]
+[19:44:18] [Server thread/INFO]: [MoreBosses] Enabling MoreBosses v2.0.2
+[19:44:18] [Server thread/INFO]: 
+  __  __ ____  
+ |  \/  |  _ \ 
+ | \  / | |_) |
+ | |\/| |  _ < 
+ | |  | | |_) |
+ |_|  |_|____/ 
+[19:44:18] [Server thread/INFO]: MoreBosses Plugin Enabled...
+[19:44:18] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+129-2ac37d8
+[19:44:18] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[19:44:18] [Server thread/INFO]: [PlayTime] Enabling PlayTime v3.6*
+[19:44:18] [Server thread/INFO]: [PlayTime] PlaceholderAPI was found! Registering Placeholders.
+[19:44:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playtime [3.6]
+[19:44:18] [Server thread/INFO]: [Seasons] Enabling Seasons v2.5.0
+[19:44:18] [Server thread/INFO]: [Seasons] 2 worlds have been disabled, 0 weathers have been disabled and 0 have been disabled
+[19:44:18] [Server thread/INFO]: [Seasons] Preparing to load...
+[19:44:18] [Server thread/INFO]: [Seasons] Seasons has detected modern Spigot (1.13+) and will adapt to use 1.13 implementation
+[19:44:18] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Enabling MyPet v3.12
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] No Update available.
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Compat mode for v1_21_R1 loaded.
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Exp calculation mode: MyPet
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Loading WorldGroups...
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet]    added 'world' to 'default'
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet]    added 'world_nether' to 'default'
+[19:44:19] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet]    added 'world_the_end' to 'default'
+[19:44:20] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Connect to SQLite database...
+[19:44:20] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] SQLite connection successful.
+[19:44:20] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+[19:44:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mypet [1.0.4]
+[19:44:20] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+[19:44:20] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+[19:44:20] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+[19:44:20] [Server thread/INFO]: [spark] Starting background profiler...
+[19:44:21] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:44:21] [Server thread/INFO]: Done preparing level "world" (59.005s)
+[19:44:21] [Server thread/INFO]: Running delayed init tasks
+[19:44:22] [Craft Scheduler Thread - 19 - InteractionVisualizer/INFO]: [InteractionVisualizer] Downloading and extracting latest Language files...
+[19:44:22] [Craft Scheduler Thread - 18 - BetterStructures/INFO]: [BetterStructures] Latest public release is 1.7.2
+[19:44:22] [Craft Scheduler Thread - 18 - BetterStructures/INFO]: [BetterStructures] Your version is 1.7.2
+[19:44:22] [Craft Scheduler Thread - 18 - BetterStructures/INFO]: [BetterStructures] You are running the latest version!
+[19:44:22] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:44:22] [Craft Scheduler Thread - 13 - PlayTime/INFO]: [PlayTime] Latest version is installed! - v3.6
+[19:44:23] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] You're 14 EssentialsX dev build(s) out of date!
+[19:44:23] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[19:44:23] [Craft Scheduler Thread - 19 - InteractionVisualizer/INFO]: [InteractionVisualizer] Sucessfully downloaded the latest Language files!
+[19:44:23] [Craft Scheduler Thread - 9 - LevelledMobs/WARN]: [LevelledMobs] LevelledMobs Update Checker Notice:
+[19:44:23] [Craft Scheduler Thread - 9 - LevelledMobs/WARN]: [LevelledMobs] Your LevelledMobs version is outdated! Please update to v4.1.4.1 as soon as possible. (You're running v4.1.4)
+[19:44:23] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[19:44:23] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[19:44:23] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[19:44:23] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[19:44:24] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[19:44:24] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[19:44:24] [Server thread/INFO]: [Seasons] Loaded world 'world' into Seasons!
+[19:44:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: seasons [2.5.0]
+[19:44:24] [Server thread/INFO]: [Seasons] Seasons has been loaded!
+[19:44:24] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[19:44:25] [Server thread/INFO]: Done (114.909s)! For help, type "help"
+[19:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[19:44:25] [Server thread/INFO]: Timings Reset
+[19:44:28] [Server thread/INFO]: [AngelChest] ========================================================
+[19:44:28] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[19:44:28] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[19:44:28] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[19:44:28] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[19:44:28] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[19:44:28] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[19:44:28] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[19:44:28] [Server thread/INFO]: [AngelChest] 
+[19:44:28] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[19:44:28] [Server thread/INFO]: [AngelChest] ========================================================
+[19:45:53] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /essentials reload
+[19:45:53] [Server thread/INFO]: [Essentials] Loaded 42782 items from items.json.
+[19:45:53] [Server thread/INFO]: [Essentials] Using locale en
+[19:45:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:45:53] [Server thread/INFO]: Essentials reloaded 2.21.0-dev+129-2ac37d8.
+[19:45:56] [User Authenticator #0/INFO]: UUID of player SxidFlxao is 6d439521-289e-36e1-a458-71dd031a423b
+[19:46:12] [Server thread/INFO]: SxidFlxao[/[0:0:0:0:0:0:0:1%0]:39708] logged in with entity id 24 at ([world]962.6999999880791, 76.0, -290.3114180082675)
+[19:46:12] [Server thread/INFO]: [+] SxidFlxao
+[19:46:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[19:46:17] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 8cd3a820-b9b0-4962-a780-b0790a0771b5, mapped to Sheep['Sheep'/196, uuid='8cd3a820-b9b0-4962-a780-b0790a0771b5', l='ServerLevel[world]', x=1129.20, y=67.00, z=-232.77, cpos=[70, -15], tl=144882, v=true], can't add Sheep['Sheep'/200, uuid='8cd3a820-b9b0-4962-a780-b0790a0771b5', l='ServerLevel[world]', x=1136.01, y=67.00, z=-232.50, cpos=[71, -15], tl=145008, v=false]
+[19:46:19] [User Authenticator #0/INFO]: UUID of player NotTrainok is 2013165f-f22c-305a-8b32-33fa70672379
+[19:46:22] [Server thread/INFO]: Named entity Spider['Infernal Spider'/86, uuid='ad23995b-9311-492b-9712-e9531f501b52', l='ServerLevel[world]', x=982.31, y=36.69, z=-351.29, cpos=[61, -22], tl=2818, v=true] died: Infernal Spider suffocated in a wall
+[19:46:48] [Server thread/INFO]: NotTrainok[/[0:0:0:0:0:0:0:1%0]:39418] logged in with entity id 250 at ([world]746.9606333534637, -10.0, 200.39241074181913)
+[19:46:48] [Server thread/INFO]: [+] NotTrainok
+[19:46:48] [Async Chat Thread - #0/INFO]: [Not Secure] [Pendejo]  SxidFlxao waos
+[19:46:49] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: dfd9eca0-2da6-45da-b615-e327be2c949c, mapped to Bat['Bat'/302, uuid='dfd9eca0-2da6-45da-b615-e327be2c949c', l='ServerLevel[world]', x=745.20, y=-24.95, z=172.44, cpos=[46, 10], tl=8514, v=true], can't add Bat['Bat'/309, uuid='dfd9eca0-2da6-45da-b615-e327be2c949c', l='ServerLevel[world]', x=727.99, y=-24.00, z=173.84, cpos=[45, 10], tl=5989, v=false]
+[19:46:49] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1b7b633d-a976-4492-9953-e86328ff57d9, mapped to Skeleton['Skeleton'/294, uuid='1b7b633d-a976-4492-9953-e86328ff57d9', l='ServerLevel[world]', x=740.01, y=-27.00, z=176.97, cpos=[46, 11], tl=7409, v=true], can't add Skeleton['Skeleton'/313, uuid='1b7b633d-a976-4492-9953-e86328ff57d9', l='ServerLevel[world]', x=732.81, y=-21.00, z=170.13, cpos=[45, 10], tl=4884, v=false]
+[19:46:50] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 039e6ae5-23b7-4d46-a2af-c8c5d99cd296, mapped to Bat['Bat'/361, uuid='039e6ae5-23b7-4d46-a2af-c8c5d99cd296', l='ServerLevel[world]', x=784.85, y=7.05, z=144.02, cpos=[49, 9], tl=263, v=true], can't add Bat['Bat'/379, uuid='039e6ae5-23b7-4d46-a2af-c8c5d99cd296', l='ServerLevel[world]', x=784.31, y=7.15, z=143.79, cpos=[49, 8], tl=265, v=false]
+[19:46:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 50e53ad5-1647-437b-878b-5f3ba58d9fe6, mapped to Zombie['Zombie'/432, uuid='50e53ad5-1647-437b-878b-5f3ba58d9fe6', l='ServerLevel[world]', x=597.23, y=-19.00, z=168.80, cpos=[37, 10], tl=41449, v=true], can't add Zombie['Zombie'/448, uuid='50e53ad5-1647-437b-878b-5f3ba58d9fe6', l='ServerLevel[world]', x=588.71, y=-17.00, z=169.40, cpos=[36, 10], tl=38937, v=false]
+[19:46:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7e4c2fc0-3538-4289-b207-a257de76435b, mapped to Skeleton['Skeleton'/414, uuid='7e4c2fc0-3538-4289-b207-a257de76435b', l='ServerLevel[world]', x=597.55, y=-11.00, z=183.33, cpos=[37, 11], tl=42469, v=true], can't add Skeleton['Skeleton'/454, uuid='7e4c2fc0-3538-4289-b207-a257de76435b', l='ServerLevel[world]', x=589.12, y=-11.00, z=168.30, cpos=[36, 10], tl=39957, v=false]
+[19:46:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 99288c78-c5a0-452e-994d-460d5271cb4d, mapped to Zombie['Zombie'/440, uuid='99288c78-c5a0-452e-994d-460d5271cb4d', l='ServerLevel[world]', x=797.51, y=22.00, z=337.53, cpos=[49, 21], tl=42489, v=true], can't add Zombie['Zombie'/462, uuid='99288c78-c5a0-452e-994d-460d5271cb4d', l='ServerLevel[world]', x=801.93, y=22.00, z=333.08, cpos=[50, 20], tl=44990, v=false]
+[19:46:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 44556cd1-d2ca-400d-af7d-b980af664cc2, mapped to Zombie['Zombie'/439, uuid='44556cd1-d2ca-400d-af7d-b980af664cc2', l='ServerLevel[world]', x=795.73, y=22.00, z=338.53, cpos=[49, 21], tl=42461, v=true], can't add Zombie['Zombie'/464, uuid='44556cd1-d2ca-400d-af7d-b980af664cc2', l='ServerLevel[world]', x=802.75, y=21.00, z=333.68, cpos=[50, 20], tl=44962, v=false]
+[19:46:58] [Server thread/INFO]: NotTrainok issued server command: /tpa SxidFlxao
+[19:47:48] [Server thread/INFO]: NotTrainok issued server command: /essentials reload
+[19:47:48] [Server thread/INFO]: [Essentials] Loaded 42782 items from items.json.
+[19:47:48] [Server thread/INFO]: [Essentials] Using locale en
+[19:47:48] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:47:58] [Server thread/INFO]: NotTrainok issued server command: /home base
+[19:49:01] [Server thread/INFO]: SxidFlxao lost connection: Timed out
+[19:49:01] [Server thread/INFO]: [-] SxidFlxao
+[19:50:24] [Server thread/INFO]: NotTrainok issued server command: /item mace
+[19:50:29] [Server thread/INFO]: NotTrainok issued server command: /gamemode creative
+[19:51:47] [Server thread/INFO]: NotTrainok issued server command: /gamemode survival
+[19:53:02] [User Authenticator #1/INFO]: UUID of player SxidFlxao is 6d439521-289e-36e1-a458-71dd031a423b
+[19:53:06] [Server thread/INFO]: SxidFlxao[/[0:0:0:0:0:0:0:1%0]:37782] logged in with entity id 1532 at ([world]962.6999999880791, 76.0, -290.3114180082675)
+[19:53:06] [Server thread/INFO]: [+] SxidFlxao
+[19:53:41] [Server thread/INFO]: SxidFlxao issued server command: /rtp
+[19:53:56] [Server thread/INFO]: SxidFlxao issued server command: /rtp
+[19:54:33] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/1874, uuid='6eaaca3f-6d01-4384-8dc4-3a082217c99d', l='ServerLevel[world]', x=955.50, y=34.00, z=-329.50, cpos=[59, -21], tl=972, v=true] died: Skeletal Knight suffocated in a wall
+[19:55:43] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/2266, uuid='36b93295-5a62-498f-be79-581e70c715fb', l='ServerLevel[world]', x=1047.50, y=27.00, z=-343.50, cpos=[65, -22], tl=968, v=true] died: Skeletal Knight suffocated in a wall
+[19:55:44] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/2271, uuid='0b1c2c01-1013-4064-9bfa-6aa15b00514a', l='ServerLevel[world]', x=989.50, y=3.00, z=-376.50, cpos=[61, -24], tl=979, v=true] died: Skeletal Knight suffocated in a wall
+[19:56:00] [Server thread/INFO]: SxidFlxao lost connection: Timed out
+[19:56:00] [Server thread/INFO]: [-] SxidFlxao
+[19:57:08] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/2497, uuid='d590818d-7136-4219-9b2b-db90627bd0ce', l='ServerLevel[world]', x=1086.50, y=26.00, z=-373.50, cpos=[67, -24], tl=792, v=true] died: Skeletal Knight suffocated in a wall
+[20:00:39] [Server thread/INFO]: NotTrainok issued server command: /item spruce_log
+[20:01:28] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/2761, uuid='4d1f6e76-2b86-4b6f-98e1-9a409a66cfe5', l='ServerLevel[world]', x=981.53, y=37.00, z=-432.25, cpos=[61, -28], tl=4719, v=true] died: Infernal Creeper suffocated in a wall
+[20:01:34] [Server thread/INFO]: NotTrainok issued server command: /item brown_terracotta 5
+[20:02:00] [Server thread/INFO]: NotTrainok issued server command: /item black_terracotta 5
+[20:02:37] [Server thread/INFO]: NotTrainok issued server command: /item wool 5
+[20:03:02] [Server thread/INFO]: NotTrainok issued server command: /item withe_wool 5
+[20:03:11] [Server thread/INFO]: NotTrainok issued server command: /item white_wool 5
+[20:03:56] [Server thread/INFO]: NotTrainok issued server command: /item andesite 5
+[20:04:24] [Server thread/INFO]: NotTrainok issued server command: /sethome cofres
+[20:04:37] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/4264, uuid='cc7c20d3-7027-453c-a3ec-69d52f575991', l='ServerLevel[world]', x=989.50, y=20.00, z=-441.50, cpos=[61, -28], tl=982, v=true] died: Skeletal Knight suffocated in a wall
+[20:07:34] [Server thread/INFO]: NotTrainok issued server command: /backpack sort
+[20:11:03] [Server thread/INFO]: NotTrainok issued server command: /home cofres
+[20:11:55] [Server thread/INFO]: NotTrainok issued server command: /home cofres
+[20:11:59] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/5330, uuid='92f4c194-fcd2-4712-8b47-eb290233dd18', l='ServerLevel[world]', x=1049.50, y=-16.00, z=-291.50, cpos=[65, -19], tl=968, v=true] died: Skeletal Knight suffocated in a wall
+[20:12:36] [Server thread/INFO]: NotTrainok issued server command: /rtp
+[20:14:08] [Async Chat Thread - #2/INFO]: [Not Secure] [Owner]  NotTrainok a
+[20:14:17] [Server thread/INFO]: NotTrainok issued server command: /rtp
+[20:17:12] [Server thread/INFO]: NotTrainok issued server command: /md rates
+[20:21:47] [Server thread/INFO]: NotTrainok issued server command: /rtp
+[20:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[20:25:09] [Server thread/WARN]: Spruce Boat (vehicle of NotTrainok) moved too quickly! 2.2526021076895972,0.0,-19.9545059166922
+[20:25:09] [Server thread/WARN]: Spruce Boat (vehicle of NotTrainok) moved too quickly! 2.0332740286280284,0.0,-20.26450624773628
+[20:25:09] [Server thread/WARN]: Spruce Boat (vehicle of NotTrainok) moved too quickly! 1.8046780520177492,0.0,-20.568536828992876
+[20:25:09] [Server thread/WARN]: Spruce Boat (vehicle of NotTrainok) moved too quickly! 1.566987848246697,0.0,-20.86622578070876
+[20:27:05] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/10822, uuid='62de2043-7f6c-4fff-9a56-a2508ef7ae4e', l='ServerLevel[world]', x=-165.50, y=10.00, z=-225.50, cpos=[-11, -15], tl=480, v=true] died: Skeletal Knight suffocated in a wall
+[20:29:53] [Server thread/INFO]: NotTrainok issued server command: /rtp
+[20:33:23] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/17469, uuid='02dacffb-d35d-4997-8b1c-f40c74c859a6', l='ServerLevel[world]', x=240.50, y=-3.00, z=582.50, cpos=[15, 36], tl=808, v=true] died: Skeletal Knight suffocated in a wall
+[20:37:38] [Server thread/INFO]: NotTrainok issued server command: /item ominouskey 1
+[20:38:01] [Server thread/INFO]: NotTrainok issued server command: /home
+[20:38:06] [Server thread/INFO]: NotTrainok issued server command: /home cofres
+[20:43:30] [Server thread/INFO]: NotTrainok issued server command: /item white_wool
+[20:44:13] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/19457, uuid='64aa8a23-e989-48dd-9d3b-dae146ce4f0c', l='ServerLevel[world]', x=1010.50, y=17.00, z=-383.50, cpos=[63, -24], tl=498, v=true] died: Skeletal Knight suffocated in a wall
+[20:45:28] [Server thread/INFO]: NotTrainok issued server command: /item gray_terracotta 3
+[20:45:52] [Server thread/INFO]: NotTrainok issued server command: /item cian_terracotta 3
+[20:46:00] [Server thread/INFO]: NotTrainok issued server command: /item cyan_terracotta 3
+[20:47:35] [Server thread/INFO]: NotTrainok issued server command: /fly
+[20:47:38] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/20055, uuid='a21727d0-d3aa-466b-a692-2df2c31e0ef0', l='ServerLevel[world]', x=953.50, y=20.00, z=-314.50, cpos=[59, -20], tl=971, v=true] died: Skeletal Knight suffocated in a wall
+[20:47:41] [Server thread/INFO]: NotTrainok issued server command: /gamemode creative
+[20:48:40] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/20310, uuid='294b3330-cfba-42e5-a415-2c16621cda08', l='ServerLevel[world]', x=1028.50, y=28.00, z=-353.50, cpos=[64, -23], tl=341, v=true] died: Skeletal Knight suffocated in a wall
+[20:48:46] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/19784, uuid='e7e696c9-5f12-4470-9223-a689f713e2bd', l='ServerLevel[world]', x=1036.27, y=107.00, z=-336.91, cpos=[64, -22], tl=4144, v=true] died: Skeletal Knight was slain by [Owner] NotTrainok using [Harvester of Souls]
+[20:49:54] [Server thread/INFO]: NotTrainok issued server command: /gamemode survival
+[20:50:16] [Server thread/INFO]: NotTrainok issued server command: /gamemode creative
+[20:50:41] [Server thread/INFO]: NotTrainok issued server command: /gamemode survival
+[20:50:59] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/20707, uuid='265f06c9-5da8-4e23-9179-940899328614', l='ServerLevel[world]', x=1001.50, y=75.00, z=-361.50, cpos=[62, -23], tl=632, v=true] died: Skeletal Knight suffocated in a wall
+[20:51:40] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/20838, uuid='ab3c52cd-5c43-45af-8a6f-1cc44bdc6a20', l='ServerLevel[world]', x=1110.09, y=34.51, z=-391.98, cpos=[69, -25], tl=1274, v=true] died: Infernal Zombie suffocated in a wall
+[20:57:38] [Server thread/INFO]: NotTrainok issued server command: /home cofres
+[21:00:19] [Server thread/INFO]: NotTrainok issued server command: /plugins
+[21:00:49] [Server thread/INFO]: NotTrainok issued server command: /gamemode creative
+[21:00:53] [Server thread/INFO]: NotTrainok issued server command: /rtp
+[21:00:54] [Server thread/INFO]: [InfernalMobs] [STDOUT] addHealth: java.lang.IllegalArgumentException: Health value (176.0) must be between 0 and 123.19999694824219. (attribute base value: 176.0)
+[21:00:54] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:01:12] [Server thread/INFO]: NotTrainok issued server command: /morebosses
+[21:01:47] [Server thread/INFO]: Named entity Slime['Albert'/22683, uuid='671e04f7-0ecb-4a32-8790-fe9bb36063d1', l='ServerLevel[world]', x=-842.39, y=63.00, z=-108.10, cpos=[-53, -7], tl=11, v=true] died: Albert hit the ground too hard
+[21:01:54] [Server thread/INFO]: NotTrainok issued server command: /morebosses
+[21:02:00] [Server thread/INFO]: Named entity Slime['Albert'/22709, uuid='d2efb72b-83a4-40b4-b5e0-d8c6784154c7', l='ServerLevel[world]', x=-836.12, y=63.00, z=-110.01, cpos=[-53, -7], tl=88, v=true] died: Albert was slain by [Owner] NotTrainok using [Harvester of Souls]
+[21:02:05] [Server thread/INFO]: NotTrainok issued server command: /morebosses
+[21:02:08] [Server thread/INFO]: NotTrainok issued server command: /gamemode survival
+[21:02:11] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (1.7999999523162842)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.effects.DamageEntity.apply(DamageEntity.java:28) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.effects.AllOf$EntityEffects.apply(AllOf.java:39) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.Enchantment.doPostAttack(Enchantment.java:293) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.Enchantment.doPostAttack(Enchantment.java:301) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.lambda$doPostAttackEffectsWithItemSource$10(EnchantmentHelper.java:207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnItem(EnchantmentHelper.java:138) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnEquipment(EnchantmentHelper.java:147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.doPostAttackEffectsWithItemSource(EnchantmentHelper.java:207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.doPostAttackEffects(EnchantmentHelper.java:197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Slime.dealDamage(Slime.java:308) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Slime.playerTouch(Slime.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.touch(Player.java:639) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.aiStep(Player.java:604) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.tick(Player.java:288) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:835) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:346) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.Connection.tick(Connection.java:638) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:242) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1823) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:13] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (1.697212815284729)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.effects.DamageEntity.apply(DamageEntity.java:28) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.effects.AllOf$EntityEffects.apply(AllOf.java:39) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.Enchantment.doPostAttack(Enchantment.java:293) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.Enchantment.doPostAttack(Enchantment.java:301) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.lambda$doPostAttackEffectsWithItemSource$10(EnchantmentHelper.java:207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnItem(EnchantmentHelper.java:138) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnEquipment(EnchantmentHelper.java:147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.doPostAttackEffectsWithItemSource(EnchantmentHelper.java:207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.doPostAttackEffects(EnchantmentHelper.java:197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Slime.dealDamage(Slime.java:308) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Slime.playerTouch(Slime.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.touch(Player.java:639) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.aiStep(Player.java:604) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.tick(Player.java:288) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:835) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:346) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.Connection.tick(Connection.java:638) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:242) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1823) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:13] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (1.4503591060638428)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.attack(Player.java:1344) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2417) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2796) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2707) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:13] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (1.4503591060638428)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.entity.CraftLivingEntity.damage(CraftLivingEntity.java:440) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.entity.CraftLivingEntity.damage(CraftLivingEntity.java:426) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at GodItems-3.0.1.jar/GodItems.abilities.weapons.LifeSteal.passiveAbility(LifeSteal.java:106) ~[GodItems-3.0.1.jar:?]
+	at GodItems-3.0.1.jar/GodItems.utils.PlayerChecker.weaponChecker(PlayerChecker.java:117) ~[GodItems-3.0.1.jar:?]
+	at GodItems-3.0.1.jar/GodItems.listeners.ClickEvents.onSwing(ClickEvents.java:152) ~[GodItems-3.0.1.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor671.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleAnimate(ServerGamePacketListenerImpl.java:2525) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.handle(ServerboundSwingPacket.java:34) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.handle(ServerboundSwingPacket.java:16) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:15] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (6.0)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.attack(Player.java:1344) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2417) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2796) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2707) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:15] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (5.208425045013428)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1474) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.entity.CraftLivingEntity.damage(CraftLivingEntity.java:440) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.entity.CraftLivingEntity.damage(CraftLivingEntity.java:426) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at GodItems-3.0.1.jar/GodItems.abilities.weapons.LifeSteal.passiveAbility(LifeSteal.java:106) ~[GodItems-3.0.1.jar:?]
+	at GodItems-3.0.1.jar/GodItems.utils.PlayerChecker.weaponChecker(PlayerChecker.java:117) ~[GodItems-3.0.1.jar:?]
+	at GodItems-3.0.1.jar/GodItems.listeners.ClickEvents.onSwing(ClickEvents.java:152) ~[GodItems-3.0.1.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor671.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleAnimate(ServerGamePacketListenerImpl.java:2525) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.handle(ServerboundSwingPacket.java:34) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundSwingPacket.handle(ServerboundSwingPacket.java:16) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:15] [Server thread/INFO]: Named entity Slime['Albert'/22751, uuid='019ba9e4-034d-4c8d-8c55-b69012878613', l='ServerLevel[world]', x=-841.98, y=63.42, z=-121.74, cpos=[-53, -8], tl=0, v=true] died: Albert was slain by [Owner] NotTrainok using [Harvester of Souls]
+[21:02:21] [Server thread/INFO]: NotTrainok issued server command: /gamemode creative
+[21:02:30] [Server thread/INFO]: NotTrainok issued server command: /morebosses:albertremover
+[21:02:36] [Server thread/INFO]: NotTrainok issued server command: /gamemode survival
+[21:02:39] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (1.3499284982681274)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.effects.DamageEntity.apply(DamageEntity.java:28) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.effects.AllOf$EntityEffects.apply(AllOf.java:39) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.Enchantment.doPostAttack(Enchantment.java:293) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.Enchantment.doPostAttack(Enchantment.java:301) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.lambda$doPostAttackEffectsWithItemSource$10(EnchantmentHelper.java:207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnItem(EnchantmentHelper.java:138) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.runIterationOnEquipment(EnchantmentHelper.java:147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.doPostAttackEffectsWithItemSource(EnchantmentHelper.java:207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.enchantment.EnchantmentHelper.doPostAttackEffects(EnchantmentHelper.java:197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Slime.dealDamage(Slime.java:308) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.monster.Slime.playerTouch(Slime.java:292) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.touch(Player.java:639) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.aiStep(Player.java:604) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:3173) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.tick(Player.java:288) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.doTick(ServerPlayer.java:835) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.tick(ServerGamePacketListenerImpl.java:346) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.Connection.tick(Connection.java:638) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:242) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1823) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:42] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (2.0)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.attack(Player.java:1344) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2417) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2796) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2707) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:02:56] [Server thread/ERROR]: Could not pass event EntityDamageByEntityEvent to MoreBosses v2.0.2
+java.lang.IllegalArgumentException: Progress must be between 0.0 and 1.0 (4.136568546295166)
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:218) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.boss.CraftBossBar.setProgress(CraftBossBar.java:158) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.displayBar(BossBars.java:31) ~[MoreBossesV2.0.2.jar:?]
+	at MoreBossesV2.0.2.jar/net.ddns.vcccd.BossBars.EntityDamage(BossBars.java:49) ~[MoreBossesV2.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor889.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEvent(CraftEventFactory.java:275) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1207) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:1197) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1127) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:1090) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:1245) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.handleEntityDamage(LivingEntity.java:2327) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.LivingEntity.hurt(LivingEntity.java:1488) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.player.Player.attack(Player.java:1344) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayer.attack(ServerPlayer.java:2417) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$3.onAttack(ServerGamePacketListenerImpl.java:2796) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.dispatch(ServerboundInteractPacket.java:29) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.dispatch(ServerboundInteractPacket.java:89) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleInteract(ServerGamePacketListenerImpl.java:2707) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:76) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.handle(ServerboundInteractPacket.java:14) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:03:45] [Server thread/INFO]: NotTrainok issued server command: /terra locatebiome BIRCH_MOUNTAINS
+[21:03:48] [Server thread/INFO]: NotTrainok issued server command: /tp 320 80 832
+[21:04:38] [Server thread/INFO]: Stopping the server
+[21:04:38] [Server thread/INFO]: Stopping server
+[21:04:38] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [MyPet] Disabling MyPet v3.12
+[21:04:38] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion mypet
+[21:04:38] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin MyPet was disabled.
+[21:04:38] [Server thread/INFO]: [Seasons] Disabling Seasons v2.5.0
+[21:04:38] [Server thread/INFO]: [Seasons] Saving all seasons-enabled worlds...
+[21:04:38] [Server thread/INFO]: [Seasons] Saved all worlds successfully
+[21:04:38] [Server thread/INFO]: [PlayTime] Disabling PlayTime v3.6
+[21:04:38] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+129-2ac37d8
+[21:04:38] [Server thread/INFO]: [MythicDrops] Disabling MythicDrops v9.0.4
+[21:04:38] [Server thread/INFO]: [MoreBosses] Disabling MoreBosses v2.0.2
+[21:04:38] [Server thread/INFO]: [Veinminer] Disabling Veinminer v2.2.1
+[21:04:38] [Server thread/INFO]: [ValhallaRaces] Disabling ValhallaRaces v2.0
+[21:04:38] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.1.0
+[21:04:38] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.6
+[21:04:38] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
+[21:04:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[21:04:38] [Server thread/INFO]: [InteractionVisualizer] Disabling InteractionVisualizer v1.18.12.0
+[21:04:38] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion interactionvisualizer
+[21:04:38] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin InteractionVisualizer was disabled.
+[21:04:38] [Server thread/INFO]: [InteractionVisualizer] Saving player preferences bitmask index, do not halt the server.
+[21:04:38] [Server thread/INFO]: [InteractionVisualizer] Plugin reload detected, attempting to despawn all visual entities. If anything went wrong, please restart! (Reloads are always not recommended)
+[21:04:38] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been disabled!
+[21:04:38] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[21:04:38] [Server thread/INFO]: [GodItems] Disabling GodItems v3.0.1
+[21:04:38] [Server thread/INFO]: [GodItems] Saved player inventories: true
+[21:04:38] [Server thread/INFO]: [MyPetDownloader] Disabling MyPetDownloader v1.2
+[21:04:38] [Server thread/INFO]: [ValhallaTrinkets] Disabling ValhallaTrinkets v2.0
+[21:04:38] [Server thread/INFO]: [BloodMoon] Disabling BloodMoon v0.8.1
+[21:04:38] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[21:04:38] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v17.0.1
+[21:04:38] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[21:04:38] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[21:04:38] [Server thread/INFO]: [CreeperFake] Disabling CreeperFake v1.0-SNAPSHOT
+[21:04:38] [Server thread/INFO]: [CreeperFake] §cCreeperFake ha sido Desactivado§r
+[21:04:38] [Server thread/INFO]: [BetterStructures] Disabling BetterStructures v1.7.2
+[21:04:38] [Server thread/INFO]: [BetterStructures] Shutdown!
+[21:04:38] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[21:04:38] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[21:04:38] [Server thread/INFO]: [FancyPhysics] Disabling FancyPhysics v3.2.0
+[21:04:38] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.1.4 b75
+[21:04:38] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[21:04:38] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[21:04:38] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[21:04:38] [Craft Scheduler Thread - 16 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[21:04:38] [Craft Scheduler Thread - 15 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[21:04:38] [Server thread/INFO]: [AngelChest] Disabling AngelChest v13.9.0
+[21:04:38] [Server thread/ERROR]: Error occurred while disabling AngelChest v13.9.0
+java.lang.ExceptionInInitializerError: null
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain.onDisable(AngelChestMain.java:442) ~[AngelChest-13.9.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:609) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1046) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:847) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.validate(CraftScheduler.java:539) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:219) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.runTaskTimer(CraftScheduler.java:210) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.scheduler.BukkitRunnable.runTaskTimer(BukkitRunnable.java:117) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at AngelChest-13.9.0.jar/de.jeff_media.angelchest.AngelChestMain$$aF.<clinit>(GraveyardListener.java:57) ~[AngelChest-13.9.0.jar:?]
+	... 12 more
+[21:04:38] [Server thread/INFO]: [GSit] Disabling GSit v1.11.1
+[21:04:38] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[21:04:38] [Server thread/INFO]: [ValhallaMMO] Disabling ValhallaMMO v1.2.8
+[21:04:38] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[21:04:38] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[21:04:38] [Server thread/INFO]: [MythicMobs] - 
+[21:04:38] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[21:04:38] [Server thread/INFO]: [MythicMobs] - 
+[21:04:38] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[21:04:38] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[21:04:38] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[21:04:38] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[21:04:38] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[21:04:38] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[21:04:38] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[21:04:38] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[21:04:38] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[21:04:38] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[21:04:38] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[21:04:38] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+129-2ac37d8
+[21:04:38] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
+[21:04:38] [Server thread/INFO]: [Minepacks] PlaceholderAPI hook was successfully unregistered!
+[21:04:39] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[21:04:39] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[21:04:39] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[21:04:39] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[21:04:39] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:04:39] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.25
+[21:04:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.8+6939-7d32b45
+[21:04:39] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:04:39] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:04:39] [Server thread/INFO]: Saving players
+[21:04:39] [Server thread/INFO]: NotTrainok lost connection: Server closed
+[21:04:39] [Server thread/INFO]: [Owner] NotTrainok left the game
+[21:04:39] [Server thread/INFO]: Saving worlds
+[21:04:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:04:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:04:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:04:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Saved 708 block chunks, 674 entity chunks, 0 poi chunks in world 'world' in 2.26s
+[21:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:04:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

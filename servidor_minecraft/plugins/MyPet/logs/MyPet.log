@@ -1,0 +1,294 @@
+11-22-2024 06:52 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 06:53 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 06:53 [INFO] [MyPet] No Update available.
+11-22-2024 06:53 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 06:53 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 06:53 [INFO] [MyPet] Current Exp-Cache is invalid, it will be recalculated.
+11-22-2024 06:53 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 06:53 [INFO] [MyPet]    added world to 'default' group.
+11-22-2024 06:53 [INFO] [MyPet]    added world_nether to 'default' group.
+11-22-2024 06:53 [INFO] [MyPet]    added world_the_end to 'default' group.
+11-22-2024 06:53 [INFO] [MyPet] Default skilltree files created.
+11-22-2024 06:53 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 06:53 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 06:53 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 06:53 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 06:53 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 07:57 [INFO] [MyPet] Disabling MyPet v3.12
+11-22-2024 08:16 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 08:17 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 08:17 [INFO] [MyPet] No Update available.
+11-22-2024 08:17 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 08:17 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 08:17 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 08:17 [INFO] [MyPet]    added 'world' to 'default'
+11-22-2024 08:17 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-22-2024 08:17 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-22-2024 08:17 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 08:17 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 08:17 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 08:17 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 08:17 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 08:37 [INFO] [MyPet] added em_fireworks to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] added em_sewer_maze to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] added em_shadow_of_the_binder_of_worlds to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] added em_hallosseum to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] added em_the_dark_cathedral to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] added em_steamworks_lair to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] added em_north_pole to 'default' group.
+11-22-2024 08:37 [INFO] [MyPet] Disabling MyPet v3.12
+11-22-2024 08:40 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 08:42 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 08:42 [INFO] [MyPet] No Update available.
+11-22-2024 08:42 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 08:42 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 08:42 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 08:42 [INFO] [MyPet]    added 'world' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_fireworks' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_sewer_maze' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_shadow_of_the_binder_of_worlds' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_hallosseum' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_the_dark_cathedral' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_steamworks_lair' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added 'em_north_pole' to 'default'
+11-22-2024 08:42 [INFO] [MyPet]    added em_adventurers_guild to 'default' group.
+11-22-2024 08:42 [INFO] [MyPet]    added em_knight_castle to 'default' group.
+11-22-2024 08:42 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 08:42 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 08:42 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 08:42 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 08:42 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 08:46 [INFO] [MyPet] Disabling MyPet v3.12
+11-22-2024 15:03 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 15:04 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 15:04 [INFO] [MyPet] No Update available.
+11-22-2024 15:04 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 15:04 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 15:04 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 15:04 [INFO] [MyPet]    added 'world' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_fireworks' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_sewer_maze' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_shadow_of_the_binder_of_worlds' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_hallosseum' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_the_dark_cathedral' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_steamworks_lair' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_north_pole' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_adventurers_guild' to 'default'
+11-22-2024 15:04 [INFO] [MyPet]    added 'em_knight_castle' to 'default'
+11-22-2024 15:04 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 15:04 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 15:04 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 15:04 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 15:04 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 15:17 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 15:18 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 15:18 [INFO] [MyPet] No Update available.
+11-22-2024 15:18 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 15:18 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 15:18 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 15:18 [INFO] [MyPet]    added 'world' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_fireworks' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_sewer_maze' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_shadow_of_the_binder_of_worlds' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_hallosseum' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_the_dark_cathedral' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_steamworks_lair' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_north_pole' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_adventurers_guild' to 'default'
+11-22-2024 15:18 [INFO] [MyPet]    added 'em_knight_castle' to 'default'
+11-22-2024 15:18 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 15:18 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 15:18 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 15:18 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 15:18 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 15:23 [INFO] [MyPet] Disabling MyPet v3.12
+11-22-2024 15:28 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 15:30 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 15:30 [INFO] [MyPet] No Update available.
+11-22-2024 15:30 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 15:30 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 15:30 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 15:30 [INFO] [MyPet]    added 'world' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_fireworks' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_sewer_maze' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_shadow_of_the_binder_of_worlds' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_hallosseum' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_the_dark_cathedral' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_steamworks_lair' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_north_pole' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_adventurers_guild' to 'default'
+11-22-2024 15:30 [INFO] [MyPet]    added 'em_knight_castle' to 'default'
+11-22-2024 15:30 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 15:30 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 15:30 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 15:30 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 15:30 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 15:37 [INFO] [MyPet] Disabling MyPet v3.12
+11-22-2024 21:09 [INFO] [MyPet] Error-Reporter ENABLED
+11-22-2024 21:11 [INFO] [MyPet] Enabling MyPet v3.12
+11-22-2024 21:11 [INFO] [MyPet] No Update available.
+11-22-2024 21:11 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-22-2024 21:11 [INFO] [MyPet] Exp calculation mode: MyPet
+11-22-2024 21:11 [INFO] [MyPet] Loading WorldGroups...
+11-22-2024 21:11 [INFO] [MyPet]    added 'world' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_fireworks' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_sewer_maze' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_shadow_of_the_binder_of_worlds' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_hallosseum' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_the_dark_cathedral' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_steamworks_lair' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_north_pole' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_adventurers_guild' to 'default'
+11-22-2024 21:11 [INFO] [MyPet]    added 'em_knight_castle' to 'default'
+11-22-2024 21:11 [INFO] [MyPet] Connect to SQLite database...
+11-22-2024 21:11 [INFO] [MyPet] SQLite connection successful.
+11-22-2024 21:11 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-22-2024 21:11 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-22-2024 21:11 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-22-2024 21:16 [INFO] [MyPet] Disabling MyPet v3.12
+11-23-2024 05:18 [INFO] [MyPet] Error-Reporter ENABLED
+11-23-2024 05:19 [INFO] [MyPet] Enabling MyPet v3.12
+11-23-2024 05:19 [INFO] [MyPet] No Update available.
+11-23-2024 05:19 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-23-2024 05:19 [INFO] [MyPet] Exp calculation mode: MyPet
+11-23-2024 05:19 [INFO] [MyPet] Loading WorldGroups...
+11-23-2024 05:19 [INFO] [MyPet]    added 'world' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_fireworks' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_sewer_maze' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_shadow_of_the_binder_of_worlds' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_hallosseum' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_the_dark_cathedral' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_steamworks_lair' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_north_pole' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_adventurers_guild' to 'default'
+11-23-2024 05:19 [INFO] [MyPet]    added 'em_knight_castle' to 'default'
+11-23-2024 05:19 [INFO] [MyPet] Connect to SQLite database...
+11-23-2024 05:19 [INFO] [MyPet] SQLite connection successful.
+11-23-2024 05:19 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-23-2024 05:19 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-23-2024 05:19 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-23-2024 05:19 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-23-2024 05:28 [INFO] [MyPet] Disabling MyPet v3.12
+11-23-2024 05:31 [INFO] [MyPet] Error-Reporter ENABLED
+11-23-2024 05:32 [INFO] [MyPet] Enabling MyPet v3.12
+11-23-2024 05:32 [INFO] [MyPet] No Update available.
+11-23-2024 05:32 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-23-2024 05:32 [INFO] [MyPet] Exp calculation mode: MyPet
+11-23-2024 05:32 [INFO] [MyPet] Loading WorldGroups...
+11-23-2024 05:32 [INFO] [MyPet]    added 'world' to 'default'
+11-23-2024 05:32 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-23-2024 05:32 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-23-2024 05:32 [INFO] [MyPet] Connect to SQLite database...
+11-23-2024 05:32 [INFO] [MyPet] SQLite connection successful.
+11-23-2024 05:32 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-23-2024 05:32 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-23-2024 05:32 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-23-2024 05:32 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1769 ENABLED
+11-23-2024 08:21 [INFO] [MyPet] Disabling MyPet v3.12
+11-25-2024 01:28 [INFO] [MyPet] Error-Reporter ENABLED
+11-25-2024 01:29 [INFO] [MyPet] Enabling MyPet v3.12
+11-25-2024 01:29 [INFO] [MyPet] No Update available.
+11-25-2024 01:29 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-25-2024 01:29 [INFO] [MyPet] Exp calculation mode: MyPet
+11-25-2024 01:29 [INFO] [MyPet] Loading WorldGroups...
+11-25-2024 01:29 [INFO] [MyPet]    added 'world' to 'default'
+11-25-2024 01:29 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-25-2024 01:29 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-25-2024 01:29 [INFO] [MyPet] Connect to SQLite database...
+11-25-2024 01:29 [INFO] [MyPet] SQLite connection successful.
+11-25-2024 01:29 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-25-2024 01:29 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-25-2024 01:29 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-25-2024 01:29 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+11-25-2024 01:41 [INFO] [MyPet] Error-Reporter ENABLED
+11-25-2024 01:42 [INFO] [MyPet] Enabling MyPet v3.12
+11-25-2024 01:42 [INFO] [MyPet] No Update available.
+11-25-2024 01:42 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-25-2024 01:42 [INFO] [MyPet] Exp calculation mode: MyPet
+11-25-2024 01:42 [INFO] [MyPet] Loading WorldGroups...
+11-25-2024 01:42 [INFO] [MyPet]    added 'world' to 'default'
+11-25-2024 01:42 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-25-2024 01:42 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-25-2024 01:42 [INFO] [MyPet] Connect to SQLite database...
+11-25-2024 01:42 [INFO] [MyPet] SQLite connection successful.
+11-25-2024 01:42 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-25-2024 01:42 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-25-2024 01:42 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-25-2024 01:42 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+11-25-2024 02:42 [INFO] [MyPet] Disabling MyPet v3.12
+11-25-2024 20:53 [INFO] [MyPet] Error-Reporter ENABLED
+11-25-2024 20:54 [INFO] [MyPet] Enabling MyPet v3.12
+11-25-2024 20:54 [INFO] [MyPet] No Update available.
+11-25-2024 20:54 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-25-2024 20:54 [INFO] [MyPet] Exp calculation mode: MyPet
+11-25-2024 20:54 [INFO] [MyPet] Loading WorldGroups...
+11-25-2024 20:54 [INFO] [MyPet]    added 'world' to 'default'
+11-25-2024 20:54 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-25-2024 20:54 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-25-2024 20:54 [INFO] [MyPet] Connect to SQLite database...
+11-25-2024 20:54 [INFO] [MyPet] SQLite connection successful.
+11-25-2024 20:54 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-25-2024 20:54 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-25-2024 20:54 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-25-2024 20:54 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+11-25-2024 22:11 [INFO] [MyPet] Disabling MyPet v3.12
+11-25-2024 22:18 [INFO] [MyPet] Error-Reporter ENABLED
+11-25-2024 22:19 [INFO] [MyPet] Enabling MyPet v3.12
+11-25-2024 22:19 [INFO] [MyPet] No Update available.
+11-25-2024 22:19 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-25-2024 22:19 [INFO] [MyPet] Exp calculation mode: MyPet
+11-25-2024 22:19 [INFO] [MyPet] Loading WorldGroups...
+11-25-2024 22:19 [INFO] [MyPet]    added 'world' to 'default'
+11-25-2024 22:19 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-25-2024 22:19 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-25-2024 22:19 [INFO] [MyPet] Connect to SQLite database...
+11-25-2024 22:19 [INFO] [MyPet] SQLite connection successful.
+11-25-2024 22:19 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-25-2024 22:19 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-25-2024 22:19 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-25-2024 22:19 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+11-25-2024 23:42 [INFO] [MyPet] Disabling MyPet v3.12
+11-30-2024 19:28 [INFO] [MyPet] Error-Reporter ENABLED
+11-30-2024 19:30 [INFO] [MyPet] Enabling MyPet v3.12
+11-30-2024 19:30 [INFO] [MyPet] No Update available.
+11-30-2024 19:30 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-30-2024 19:30 [INFO] [MyPet] Exp calculation mode: MyPet
+11-30-2024 19:30 [INFO] [MyPet] Loading WorldGroups...
+11-30-2024 19:30 [INFO] [MyPet]    added 'world' to 'default'
+11-30-2024 19:30 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-30-2024 19:30 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-30-2024 19:30 [INFO] [MyPet] Connect to SQLite database...
+11-30-2024 19:30 [INFO] [MyPet] SQLite connection successful.
+11-30-2024 19:30 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-30-2024 19:30 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-30-2024 19:30 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-30-2024 19:30 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+11-30-2024 19:38 [INFO] [MyPet] Disabling MyPet v3.12
+11-30-2024 19:43 [INFO] [MyPet] Error-Reporter ENABLED
+11-30-2024 19:44 [INFO] [MyPet] Enabling MyPet v3.12
+11-30-2024 19:44 [INFO] [MyPet] No Update available.
+11-30-2024 19:44 [INFO] [MyPet] Compat mode for v1_21_R1 loaded.
+11-30-2024 19:44 [INFO] [MyPet] Exp calculation mode: MyPet
+11-30-2024 19:44 [INFO] [MyPet] Loading WorldGroups...
+11-30-2024 19:44 [INFO] [MyPet]    added 'world' to 'default'
+11-30-2024 19:44 [INFO] [MyPet]    added 'world_nether' to 'default'
+11-30-2024 19:44 [INFO] [MyPet]    added 'world_the_end' to 'default'
+11-30-2024 19:44 [INFO] [MyPet] Connect to SQLite database...
+11-30-2024 19:44 [INFO] [MyPet] SQLite connection successful.
+11-30-2024 19:44 [INFO] [MyPet] MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}) hook activated.
+11-30-2024 19:44 [INFO] [MyPet] PlaceholderAPI (2.11.6) hook activated.
+11-30-2024 19:44 [INFO] [MyPet] WorldGuard (7.0.12+829a4a4) hook activated.
+11-30-2024 19:44 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1772 ENABLED
+11-30-2024 21:04 [INFO] [MyPet] Disabling MyPet v3.12

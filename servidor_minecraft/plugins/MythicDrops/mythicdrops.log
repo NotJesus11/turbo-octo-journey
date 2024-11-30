@@ -1,0 +1,46 @@
+Nov 30, 2024 7:29:02 PM INFO: MythicDropsPlugin.onEnable: Loading configuration files...
+Nov 30, 2024 7:29:02 PM INFO: ConfigMigrator.migrate: Beginning migration process
+Nov 30, 2024 7:29:02 PM INFO: ConfigMigrator.migrate: Finished migration process!
+Nov 30, 2024 7:29:02 PM INFO: MythicDropsPlugin.onEnable: Writing resources files if necessary...
+Nov 30, 2024 7:29:02 PM INFO: MythicDropsPlugin.onEnable: Loading all settings and everything else...
+Nov 30, 2024 7:29:02 PM WARNING: FileAwareYamlConfiguration.load: Cannot load file that doesn't exist: /workspaces/SMP_Plugins/servidor_minecraft/plugins/MythicDrops/startup.yml
+Nov 30, 2024 7:29:02 PM INFO: MythicConfigLoader.reloadItemGroups: Loaded item groups: 29
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadTiers: Loaded tiers: [artisan, common, epic, exotic, legendary, rare, uncommon]
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadNames: Loaded prefixes: 250
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadNames: Loaded suffixes: 184
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadNames: Loaded lore: 15
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadNames: Loaded mob names: 4214
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadCustomItems: Loaded custom items: 1
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadRepairCosts: Loaded repair items: 56
+Nov 30, 2024 7:29:03 PM INFO: MythicSocketTypeManager.loadFromConfiguration: Loaded socket types (1): any
+Nov 30, 2024 7:29:03 PM INFO: MythicSocketExtenderTypeManager.loadFromConfiguration: Loaded socket extender types (1): default
+Nov 30, 2024 7:29:03 PM INFO: MythicSocketGemManager.loadFromConfiguration: Loaded socket gems (53): Harden I, Harden II, Harden III, Harden IV, Frost I, Frost II, Frost III, Frost IV, Needles I, Needles II, Needles III, Needles IV, Spikes I, Spikes II, Spikes III, Spikes IV, Sparkly I, Chill I, Chill II, Chill III, Chill IV, Counter I, Counter II, Counter III, Counter IV, Weaken I, Weaken II, Weaken III, Weaken IV, Confusion I, Confusion II, Confusion III, Confusion IV, Darkness I, Darkness II, Darkness III, Darkness IV, Poison I, Poison II, Poison III, Poison IV, Wither I, Wither II, Wither III, Wither IV, Adrenaline I, Adrenaline II, Adrenaline III, Adrenaline IV, Torment I, Torment II, Commanding I, Healthy I
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadSocketGems: Existing aura task cancelled
+Nov 30, 2024 7:29:03 PM INFO: MythicConfigLoader.reloadRelations: Loaded relations: 3
+Nov 30, 2024 7:29:03 PM INFO: MythicDropsPlugin.onEnable: Registering event listeners...
+Nov 30, 2024 7:29:04 PM INFO: MythicDropsPlugin.onEnable: Total possible listeners: 16
+Nov 30, 2024 7:29:04 PM INFO: MythicDropsPlugin.onEnable: Setting up commands...
+Nov 30, 2024 7:29:06 PM INFO: MythicDropsPlugin.onEnable: v9.0.4 enabled
+Nov 30, 2024 7:43:20 PM INFO: MythicDropsPlugin.onEnable: Loading configuration files...
+Nov 30, 2024 7:43:20 PM INFO: ConfigMigrator.migrate: Beginning migration process
+Nov 30, 2024 7:43:21 PM INFO: ConfigMigrator.migrate: Finished migration process!
+Nov 30, 2024 7:43:21 PM INFO: MythicDropsPlugin.onEnable: Writing resources files if necessary...
+Nov 30, 2024 7:43:21 PM INFO: MythicDropsPlugin.onEnable: Loading all settings and everything else...
+Nov 30, 2024 7:43:21 PM WARNING: FileAwareYamlConfiguration.load: Cannot load file that doesn't exist: /workspaces/SMP_Plugins/servidor_minecraft/plugins/MythicDrops/startup.yml
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadItemGroups: Loaded item groups: 29
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadTiers: Loaded tiers: [artisan, common, epic, exotic, legendary, rare, uncommon]
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadNames: Loaded prefixes: 250
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadNames: Loaded suffixes: 184
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadNames: Loaded lore: 15
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadNames: Loaded mob names: 4214
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadCustomItems: Loaded custom items: 1
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadRepairCosts: Loaded repair items: 56
+Nov 30, 2024 7:43:21 PM INFO: MythicSocketTypeManager.loadFromConfiguration: Loaded socket types (1): any
+Nov 30, 2024 7:43:21 PM INFO: MythicSocketExtenderTypeManager.loadFromConfiguration: Loaded socket extender types (1): default
+Nov 30, 2024 7:43:21 PM INFO: MythicSocketGemManager.loadFromConfiguration: Loaded socket gems (53): Harden I, Harden II, Harden III, Harden IV, Frost I, Frost II, Frost III, Frost IV, Needles I, Needles II, Needles III, Needles IV, Spikes I, Spikes II, Spikes III, Spikes IV, Sparkly I, Chill I, Chill II, Chill III, Chill IV, Counter I, Counter II, Counter III, Counter IV, Weaken I, Weaken II, Weaken III, Weaken IV, Confusion I, Confusion II, Confusion III, Confusion IV, Darkness I, Darkness II, Darkness III, Darkness IV, Poison I, Poison II, Poison III, Poison IV, Wither I, Wither II, Wither III, Wither IV, Adrenaline I, Adrenaline II, Adrenaline III, Adrenaline IV, Torment I, Torment II, Commanding I, Healthy I
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadSocketGems: Existing aura task cancelled
+Nov 30, 2024 7:43:21 PM INFO: MythicConfigLoader.reloadRelations: Loaded relations: 3
+Nov 30, 2024 7:43:21 PM INFO: MythicDropsPlugin.onEnable: Registering event listeners...
+Nov 30, 2024 7:43:22 PM INFO: MythicDropsPlugin.onEnable: Total possible listeners: 16
+Nov 30, 2024 7:43:22 PM INFO: MythicDropsPlugin.onEnable: Setting up commands...
+Nov 30, 2024 7:43:22 PM INFO: MythicDropsPlugin.onEnable: v9.0.4 enabled
